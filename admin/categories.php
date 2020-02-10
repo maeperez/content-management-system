@@ -19,7 +19,7 @@
 
                         <h1 class="page-header">
                             Welcome to Admin
-                            <small>Author</small>
+                            <small>Mae</small>
                         </h1>
 
 
